@@ -1,0 +1,62 @@
+{
+  "slug": "odisha-nature-spot-3-tour",
+  "title": "Odisha Nature Tour 3",
+  "location": "Odisha, India",
+  "price": "₹22000",
+  "duration": "2 Days / 3 Nights",
+  "overview": "Explore the beautiful nature attractions of Odisha. This tour is designed to give you an immersive experience of Nature Spot 3.",
+  "highlights": [
+    "Visit Nature Spot 3",
+    "Experience local Odisha culture",
+    "Guided Nature activities",
+    "Comfortable accommodation",
+    "Private transportation"
+  ],
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Arrival",
+      "desc": "Arrive in Odisha and transfer to your hotel."
+    },
+    {
+      "day": "Day 2",
+      "title": "Sightseeing",
+      "desc": "Full day exploring Nature Spot 3 and nearby areas."
+    },
+    {
+      "day": "Day 3",
+      "title": "Departure",
+      "desc": "Breakfast and transfer to the airport/station."
+    }
+  ],
+  "inclusions": [
+    "Hotel stay",
+    "Breakfast",
+    "AC Transport"
+  ],
+  "exclusions": [
+    "Airfare",
+    "Lunch",
+    "Personal expenses"
+  ],
+  "importantInfo": [
+    "Carry ID proof",
+    "Follow local guidelines"
+  ],
+  "faqs": [
+    {
+      "q": "Is it safe?",
+      "a": "Yes, we provide 24/7 support."
+    }
+  ],
+  "quickHighlights": {
+    "duration": "3D/2N",
+    "hotel": "3 Star",
+    "meals": "CP",
+    "transport": "Private",
+    "groupType": "Private"
+  },
+  "country": "India",
+  "state": "Odisha",
+  "attraction": "Nature Spot 3"
+}

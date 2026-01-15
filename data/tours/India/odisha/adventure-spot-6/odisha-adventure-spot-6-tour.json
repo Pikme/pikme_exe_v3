@@ -1,0 +1,62 @@
+{
+  "slug": "odisha-adventure-spot-6-tour",
+  "title": "Odisha Adventure Tour 6",
+  "location": "Odisha, India",
+  "price": "₹8000",
+  "duration": "6 Days / 4 Nights",
+  "overview": "Explore the beautiful adventure attractions of Odisha. This tour is designed to give you an immersive experience of Adventure Spot 6.",
+  "highlights": [
+    "Visit Adventure Spot 6",
+    "Experience local Odisha culture",
+    "Guided Adventure activities",
+    "Comfortable accommodation",
+    "Private transportation"
+  ],
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Arrival",
+      "desc": "Arrive in Odisha and transfer to your hotel."
+    },
+    {
+      "day": "Day 2",
+      "title": "Sightseeing",
+      "desc": "Full day exploring Adventure Spot 6 and nearby areas."
+    },
+    {
+      "day": "Day 3",
+      "title": "Departure",
+      "desc": "Breakfast and transfer to the airport/station."
+    }
+  ],
+  "inclusions": [
+    "Hotel stay",
+    "Breakfast",
+    "AC Transport"
+  ],
+  "exclusions": [
+    "Airfare",
+    "Lunch",
+    "Personal expenses"
+  ],
+  "importantInfo": [
+    "Carry ID proof",
+    "Follow local guidelines"
+  ],
+  "faqs": [
+    {
+      "q": "Is it safe?",
+      "a": "Yes, we provide 24/7 support."
+    }
+  ],
+  "quickHighlights": {
+    "duration": "3D/2N",
+    "hotel": "3 Star",
+    "meals": "CP",
+    "transport": "Private",
+    "groupType": "Private"
+  },
+  "country": "India",
+  "state": "Odisha",
+  "attraction": "Adventure Spot 6"
+}
