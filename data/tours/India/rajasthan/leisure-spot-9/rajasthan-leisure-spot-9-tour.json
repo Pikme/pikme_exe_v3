@@ -1,0 +1,62 @@
+{
+  "slug": "rajasthan-leisure-spot-9-tour",
+  "title": "Rajasthan Leisure Tour 9",
+  "location": "Rajasthan, India",
+  "price": "₹17000",
+  "duration": "6 Days / 3 Nights",
+  "overview": "Explore the beautiful leisure attractions of Rajasthan. This tour is designed to give you an immersive experience of Leisure Spot 9.",
+  "highlights": [
+    "Visit Leisure Spot 9",
+    "Experience local Rajasthan culture",
+    "Guided Leisure activities",
+    "Comfortable accommodation",
+    "Private transportation"
+  ],
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Arrival",
+      "desc": "Arrive in Rajasthan and transfer to your hotel."
+    },
+    {
+      "day": "Day 2",
+      "title": "Sightseeing",
+      "desc": "Full day exploring Leisure Spot 9 and nearby areas."
+    },
+    {
+      "day": "Day 3",
+      "title": "Departure",
+      "desc": "Breakfast and transfer to the airport/station."
+    }
+  ],
+  "inclusions": [
+    "Hotel stay",
+    "Breakfast",
+    "AC Transport"
+  ],
+  "exclusions": [
+    "Airfare",
+    "Lunch",
+    "Personal expenses"
+  ],
+  "importantInfo": [
+    "Carry ID proof",
+    "Follow local guidelines"
+  ],
+  "faqs": [
+    {
+      "q": "Is it safe?",
+      "a": "Yes, we provide 24/7 support."
+    }
+  ],
+  "quickHighlights": {
+    "duration": "3D/2N",
+    "hotel": "3 Star",
+    "meals": "CP",
+    "transport": "Private",
+    "groupType": "Private"
+  },
+  "country": "India",
+  "state": "Rajasthan",
+  "attraction": "Leisure Spot 9"
+}

@@ -1,0 +1,62 @@
+{
+  "slug": "telangana-spiritual-spot-5-tour",
+  "title": "Telangana Spiritual Tour 5",
+  "location": "Telangana, India",
+  "price": "₹8000",
+  "duration": "5 Days / 4 Nights",
+  "overview": "Explore the beautiful spiritual attractions of Telangana. This tour is designed to give you an immersive experience of Spiritual Spot 5.",
+  "highlights": [
+    "Visit Spiritual Spot 5",
+    "Experience local Telangana culture",
+    "Guided Spiritual activities",
+    "Comfortable accommodation",
+    "Private transportation"
+  ],
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Arrival",
+      "desc": "Arrive in Telangana and transfer to your hotel."
+    },
+    {
+      "day": "Day 2",
+      "title": "Sightseeing",
+      "desc": "Full day exploring Spiritual Spot 5 and nearby areas."
+    },
+    {
+      "day": "Day 3",
+      "title": "Departure",
+      "desc": "Breakfast and transfer to the airport/station."
+    }
+  ],
+  "inclusions": [
+    "Hotel stay",
+    "Breakfast",
+    "AC Transport"
+  ],
+  "exclusions": [
+    "Airfare",
+    "Lunch",
+    "Personal expenses"
+  ],
+  "importantInfo": [
+    "Carry ID proof",
+    "Follow local guidelines"
+  ],
+  "faqs": [
+    {
+      "q": "Is it safe?",
+      "a": "Yes, we provide 24/7 support."
+    }
+  ],
+  "quickHighlights": {
+    "duration": "3D/2N",
+    "hotel": "3 Star",
+    "meals": "CP",
+    "transport": "Private",
+    "groupType": "Private"
+  },
+  "country": "India",
+  "state": "Telangana",
+  "attraction": "Spiritual Spot 5"
+}
