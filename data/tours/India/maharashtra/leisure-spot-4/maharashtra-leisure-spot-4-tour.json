@@ -1,0 +1,62 @@
+{
+  "slug": "maharashtra-leisure-spot-4-tour",
+  "title": "Maharashtra Leisure Tour 4",
+  "location": "Maharashtra, India",
+  "price": "₹16000",
+  "duration": "3 Days / 3 Nights",
+  "overview": "Explore the beautiful leisure attractions of Maharashtra. This tour is designed to give you an immersive experience of Leisure Spot 4.",
+  "highlights": [
+    "Visit Leisure Spot 4",
+    "Experience local Maharashtra culture",
+    "Guided Leisure activities",
+    "Comfortable accommodation",
+    "Private transportation"
+  ],
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Arrival",
+      "desc": "Arrive in Maharashtra and transfer to your hotel."
+    },
+    {
+      "day": "Day 2",
+      "title": "Sightseeing",
+      "desc": "Full day exploring Leisure Spot 4 and nearby areas."
+    },
+    {
+      "day": "Day 3",
+      "title": "Departure",
+      "desc": "Breakfast and transfer to the airport/station."
+    }
+  ],
+  "inclusions": [
+    "Hotel stay",
+    "Breakfast",
+    "AC Transport"
+  ],
+  "exclusions": [
+    "Airfare",
+    "Lunch",
+    "Personal expenses"
+  ],
+  "importantInfo": [
+    "Carry ID proof",
+    "Follow local guidelines"
+  ],
+  "faqs": [
+    {
+      "q": "Is it safe?",
+      "a": "Yes, we provide 24/7 support."
+    }
+  ],
+  "quickHighlights": {
+    "duration": "3D/2N",
+    "hotel": "3 Star",
+    "meals": "CP",
+    "transport": "Private",
+    "groupType": "Private"
+  },
+  "country": "India",
+  "state": "Maharashtra",
+  "attraction": "Leisure Spot 4"
+}

@@ -1,0 +1,62 @@
+{
+  "slug": "maharashtra-nature-spot-8-tour",
+  "title": "Maharashtra Nature Tour 8",
+  "location": "Maharashtra, India",
+  "price": "₹18000",
+  "duration": "4 Days / 3 Nights",
+  "overview": "Explore the beautiful nature attractions of Maharashtra. This tour is designed to give you an immersive experience of Nature Spot 8.",
+  "highlights": [
+    "Visit Nature Spot 8",
+    "Experience local Maharashtra culture",
+    "Guided Nature activities",
+    "Comfortable accommodation",
+    "Private transportation"
+  ],
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Arrival",
+      "desc": "Arrive in Maharashtra and transfer to your hotel."
+    },
+    {
+      "day": "Day 2",
+      "title": "Sightseeing",
+      "desc": "Full day exploring Nature Spot 8 and nearby areas."
+    },
+    {
+      "day": "Day 3",
+      "title": "Departure",
+      "desc": "Breakfast and transfer to the airport/station."
+    }
+  ],
+  "inclusions": [
+    "Hotel stay",
+    "Breakfast",
+    "AC Transport"
+  ],
+  "exclusions": [
+    "Airfare",
+    "Lunch",
+    "Personal expenses"
+  ],
+  "importantInfo": [
+    "Carry ID proof",
+    "Follow local guidelines"
+  ],
+  "faqs": [
+    {
+      "q": "Is it safe?",
+      "a": "Yes, we provide 24/7 support."
+    }
+  ],
+  "quickHighlights": {
+    "duration": "3D/2N",
+    "hotel": "3 Star",
+    "meals": "CP",
+    "transport": "Private",
+    "groupType": "Private"
+  },
+  "country": "India",
+  "state": "Maharashtra",
+  "attraction": "Nature Spot 8"
+}
