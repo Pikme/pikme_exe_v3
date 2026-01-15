@@ -1,0 +1,62 @@
+{
+  "slug": "assam-heritage-spot-2-tour",
+  "title": "Assam Heritage Tour 2",
+  "location": "Assam, India",
+  "price": "₹23000",
+  "duration": "6 Days / 1 Nights",
+  "overview": "Explore the beautiful heritage attractions of Assam. This tour is designed to give you an immersive experience of Heritage Spot 2.",
+  "highlights": [
+    "Visit Heritage Spot 2",
+    "Experience local Assam culture",
+    "Guided Heritage activities",
+    "Comfortable accommodation",
+    "Private transportation"
+  ],
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Arrival",
+      "desc": "Arrive in Assam and transfer to your hotel."
+    },
+    {
+      "day": "Day 2",
+      "title": "Sightseeing",
+      "desc": "Full day exploring Heritage Spot 2 and nearby areas."
+    },
+    {
+      "day": "Day 3",
+      "title": "Departure",
+      "desc": "Breakfast and transfer to the airport/station."
+    }
+  ],
+  "inclusions": [
+    "Hotel stay",
+    "Breakfast",
+    "AC Transport"
+  ],
+  "exclusions": [
+    "Airfare",
+    "Lunch",
+    "Personal expenses"
+  ],
+  "importantInfo": [
+    "Carry ID proof",
+    "Follow local guidelines"
+  ],
+  "faqs": [
+    {
+      "q": "Is it safe?",
+      "a": "Yes, we provide 24/7 support."
+    }
+  ],
+  "quickHighlights": {
+    "duration": "3D/2N",
+    "hotel": "3 Star",
+    "meals": "CP",
+    "transport": "Private",
+    "groupType": "Private"
+  },
+  "country": "India",
+  "state": "Assam",
+  "attraction": "Heritage Spot 2"
+}
