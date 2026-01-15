@@ -1,0 +1,55 @@
+{
+  "slug": "jaipur-to-jaisalmer-desert-safari",
+  "title": "Jaipur to Jaisalmer Desert Safari",
+  "location": "Jaisalmer, Rajasthan",
+  "price": "₹13,500",
+  "duration": "3 Days / 2 Nights",
+  "overview": "Experience the Golden City with a camel safari and a night under the stars in the Thar Desert.",
+  "highlights": [
+    "Jaisalmer Fort",
+    "Sam Sand Dunes",
+    "Camel Safari"
+  ],
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Arrival & Fort",
+      "desc": "Arrive in Jaisalmer, visit the living fort and havelis."
+    },
+    {
+      "day": "Day 2",
+      "title": "Desert Camping",
+      "desc": "Transfer to Sam dunes, camel ride, and folk dance."
+    },
+    {
+      "day": "Day 3",
+      "title": "Departure",
+      "desc": "Breakfast and transfer to station."
+    }
+  ],
+  "inclusions": [
+    "Hotel & Camp",
+    "Breakfast & Dinner",
+    "Safari"
+  ],
+  "exclusions": [
+    "Jeep safari",
+    "Personal tips"
+  ],
+  "importantInfo": [
+    "Carry sunglasses and scarves"
+  ],
+  "faqs": [
+    {
+      "q": "Is it safe at night?",
+      "a": "Yes, camps are secure."
+    }
+  ],
+  "quickHighlights": {
+    "duration": "3D/2N",
+    "hotel": "Camp/Hotel",
+    "meals": "MAP",
+    "transport": "Private",
+    "groupType": "Group"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "slug": "ahmedabad-to-rann-of-kutch",
+  "title": "Ahmedabad to Rann of Kutch Festival",
+  "location": "Dhordo, Gujarat",
+  "price": "₹22,000",
+  "duration": "3 Days / 2 Nights",
+  "overview": "Witness the white desert under the moonlight and experience the vibrant culture of Kutch.",
+  "highlights": [
+    "White Rann Sunset",
+    "Kala Dungar",
+    "Cultural Performances"
+  ],
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Arrival & Tent City",
+      "desc": "Transfer from Bhuj, check-in at tents, evening at Rann."
+    },
+    {
+      "day": "Day 2",
+      "title": "Village Tour",
+      "desc": "Visit Bhirandiyara and Gandhi Nu Gam for handicrafts."
+    },
+    {
+      "day": "Day 3",
+      "title": "Bhuj Sightseeing",
+      "desc": "Visit Aina Mahal and depart."
+    }
+  ],
+  "inclusions": [
+    "Luxury Tents",
+    "All Meals",
+    "Cultural Shows"
+  ],
+  "exclusions": [
+    "Rann Permit",
+    "Flight to Bhuj"
+  ],
+  "importantInfo": [
+    "Permit required for Rann"
+  ],
+  "faqs": [
+    {
+      "q": "Best time for Rann?",
+      "a": "Full moon nights."
+    }
+  ],
+  "quickHighlights": {
+    "duration": "3D/2N",
+    "hotel": "Tents",
+    "meals": "All",
+    "transport": "Shared",
+    "groupType": "Group"
+  }
+}

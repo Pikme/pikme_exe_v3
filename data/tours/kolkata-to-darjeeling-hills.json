@@ -1,0 +1,65 @@
+{
+  "slug": "kolkata-to-darjeeling-hills",
+  "title": "Kolkata to Darjeeling Hill Retreat",
+  "location": "Darjeeling, West Bengal",
+  "price": "₹18,500",
+  "duration": "5 Days / 4 Nights",
+  "overview": "Wake up to the view of Kanchenjunga and enjoy the world-famous Darjeeling tea in the Queen of Hills.",
+  "highlights": [
+    "Tiger Hill Sunrise",
+    "Toy Train Ride",
+    "Tea Garden Visit"
+  ],
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Arrival in Bagdogra",
+      "desc": "Transfer to Darjeeling, evening at Mall Road."
+    },
+    {
+      "day": "Day 2",
+      "title": "Tiger Hill & Local",
+      "desc": "Early morning sunrise, visit Ghoom Monastery."
+    },
+    {
+      "day": "Day 3",
+      "title": "Mirik Excursion",
+      "desc": "Day trip to Mirik lake and Nepal border."
+    },
+    {
+      "day": "Day 4",
+      "title": "Tea Gardens",
+      "desc": "Visit Happy Valley Tea Estate and Zoo."
+    },
+    {
+      "day": "Day 5",
+      "title": "Departure",
+      "desc": "Transfer back to Bagdogra."
+    }
+  ],
+  "inclusions": [
+    "Hill Resort",
+    "Breakfast & Dinner",
+    "Sightseeing"
+  ],
+  "exclusions": [
+    "Toy train tickets",
+    "Lunch"
+  ],
+  "importantInfo": [
+    "Carry woolens even in summer"
+  ],
+  "faqs": [
+    {
+      "q": "Is Toy Train running?",
+      "a": "Usually yes, check schedule."
+    }
+  ],
+  "quickHighlights": {
+    "duration": "5D/4N",
+    "hotel": "Resort",
+    "meals": "MAP",
+    "transport": "Private",
+    "groupType": "Group"
+  }
+}

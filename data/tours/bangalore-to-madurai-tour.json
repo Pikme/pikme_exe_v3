@@ -1,0 +1,51 @@
+{
+  "slug": "bangalore-to-madurai-tour",
+  "title": "Bangalore to Madurai Spiritual Journey",
+  "location": "Madurai, Tamil Nadu",
+  "price": "₹10,500",
+  "duration": "2 Days / 1 Night",
+  "overview": "Visit the historic Meenakshi Amman Temple and explore the cultural heritage of Madurai, the Athens of the East.",
+  "highlights": [
+    "Meenakshi Temple Darshan",
+    "Thirumalai Nayakkar Palace",
+    "Gandhi Memorial Museum"
+  ],
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Arrival & Palace Visit",
+      "desc": "Arrive in Madurai, check-in, and visit the majestic Thirumalai Nayakkar Palace."
+    },
+    {
+      "day": "Day 2",
+      "title": "Temple & Departure",
+      "desc": "Early morning darshan at Meenakshi Temple followed by local shopping and departure."
+    }
+  ],
+  "inclusions": [
+    "Hotel stay",
+    "Breakfast",
+    "AC Cab"
+  ],
+  "exclusions": [
+    "Lunch",
+    "Dinner",
+    "Entry tickets"
+  ],
+  "importantInfo": [
+    "Temple dress code strictly enforced"
+  ],
+  "faqs": [
+    {
+      "q": "Best time to visit?",
+      "a": "October to March."
+    }
+  ],
+  "quickHighlights": {
+    "duration": "2D/1N",
+    "hotel": "3 Star",
+    "meals": "CP",
+    "transport": "Private",
+    "groupType": "Group"
+  }
+}

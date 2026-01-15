@@ -1,0 +1,50 @@
+{
+  "slug": "chennai-to-pondicherry-getaway",
+  "title": "Chennai to Pondicherry French Getaway",
+  "location": "Pondicherry",
+  "price": "₹7,500",
+  "duration": "2 Days / 1 Night",
+  "overview": "Experience the French Riviera of the East with its charming white town and serene beaches.",
+  "highlights": [
+    "Auroville Matrimandir",
+    "Promenade Beach",
+    "French Quarter Walk"
+  ],
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Arrival & White Town",
+      "desc": "Drive from Chennai, explore the French colony and cafes."
+    },
+    {
+      "day": "Day 2",
+      "title": "Auroville & Departure",
+      "desc": "Visit Auroville and Paradise beach before heading back."
+    }
+  ],
+  "inclusions": [
+    "Hotel stay",
+    "Breakfast",
+    "AC Cab"
+  ],
+  "exclusions": [
+    "Auroville pass",
+    "Personal expenses"
+  ],
+  "importantInfo": [
+    "Book Auroville in advance"
+  ],
+  "faqs": [
+    {
+      "q": "Is it family friendly?",
+      "a": "Absolutely."
+    }
+  ],
+  "quickHighlights": {
+    "duration": "2D/1N",
+    "hotel": "3 Star",
+    "meals": "CP",
+    "transport": "Private",
+    "groupType": "Private"
+  }
+}

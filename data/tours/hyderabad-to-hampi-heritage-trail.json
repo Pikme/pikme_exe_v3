@@ -1,0 +1,55 @@
+{
+  "slug": "hyderabad-to-hampi-heritage-trail",
+  "title": "Hyderabad to Hampi Heritage Trail",
+  "location": "Hampi, Karnataka",
+  "price": "₹11,200",
+  "duration": "3 Days / 2 Nights",
+  "overview": "Step back in time at the UNESCO World Heritage site of Hampi, the ruins of the Vijayanagara Empire.",
+  "highlights": [
+    "Virupaksha Temple",
+    "Vittala Temple Stone Chariot",
+    "Coracle Ride"
+  ],
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Arrival & Sunset",
+      "desc": "Arrive in Hampi, check-in, sunset view from Hemakuta Hill."
+    },
+    {
+      "day": "Day 2",
+      "title": "Full Day Ruins",
+      "desc": "Explore the Royal Enclosure and riverside temples."
+    },
+    {
+      "day": "Day 3",
+      "title": "Anegundi & Departure",
+      "desc": "Visit the monkey temple and depart for Hyderabad."
+    }
+  ],
+  "inclusions": [
+    "Heritage Stay",
+    "Breakfast",
+    "Guided Tour"
+  ],
+  "exclusions": [
+    "Entry fees",
+    "Meals not mentioned"
+  ],
+  "importantInfo": [
+    "Lots of walking involved"
+  ],
+  "faqs": [
+    {
+      "q": "Is it hot?",
+      "a": "Yes, carry water and hats."
+    }
+  ],
+  "quickHighlights": {
+    "duration": "3D/2N",
+    "hotel": "Boutique",
+    "meals": "CP",
+    "transport": "Private",
+    "groupType": "Private"
+  }
+}

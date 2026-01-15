@@ -1,0 +1,60 @@
+{
+  "slug": "mumbai-to-goa-beach-vacation",
+  "title": "Mumbai to Goa Beach Vacation",
+  "location": "North Goa",
+  "price": "₹15,000",
+  "duration": "4 Days / 3 Nights",
+  "overview": "Relax on the sun-kissed beaches of North Goa, explore Portuguese architecture, and enjoy the vibrant nightlife.",
+  "highlights": [
+    "Baga & Calangute Beaches",
+    "Aguada Fort",
+    "Old Goa Churches"
+  ],
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Arrival in Goa",
+      "desc": "Transfer to hotel, evening at leisure on the beach."
+    },
+    {
+      "day": "Day 2",
+      "title": "North Goa Tour",
+      "desc": "Visit forts and popular beaches."
+    },
+    {
+      "day": "Day 3",
+      "title": "South Goa Tour",
+      "desc": "Explore Old Goa churches and Miramar beach."
+    },
+    {
+      "day": "Day 4",
+      "title": "Departure",
+      "desc": "Breakfast and transfer to airport/station."
+    }
+  ],
+  "inclusions": [
+    "Resort stay",
+    "Breakfast",
+    "Sightseeing"
+  ],
+  "exclusions": [
+    "Water sports",
+    "Flight tickets"
+  ],
+  "importantInfo": [
+    "Carry sunscreen and hats"
+  ],
+  "faqs": [
+    {
+      "q": "Is scooty rental available?",
+      "a": "Yes, easily available."
+    }
+  ],
+  "quickHighlights": {
+    "duration": "4D/3N",
+    "hotel": "Resort",
+    "meals": "CP",
+    "transport": "Private",
+    "groupType": "Private"
+  }
+}

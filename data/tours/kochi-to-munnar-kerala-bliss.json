@@ -1,0 +1,55 @@
+{
+  "slug": "kochi-to-munnar-kerala-bliss",
+  "title": "Kochi to Munnar Kerala Bliss",
+  "location": "Munnar, Kerala",
+  "price": "₹14,800",
+  "duration": "3 Days / 2 Nights",
+  "overview": "Escape to the rolling hills and tea plantations of Munnar for a refreshing break.",
+  "highlights": [
+    "Eravikulam National Park",
+    "Mattupetty Dam",
+    "Tea Museum"
+  ],
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Arrival & Waterfalls",
+      "desc": "Drive from Kochi, visit Cheeyappara waterfalls."
+    },
+    {
+      "day": "Day 2",
+      "title": "Munnar Sightseeing",
+      "desc": "Full day exploring tea estates and dams."
+    },
+    {
+      "day": "Day 3",
+      "title": "Departure",
+      "desc": "Morning walk and drive back to Kochi."
+    }
+  ],
+  "inclusions": [
+    "Hill View Hotel",
+    "Breakfast",
+    "AC Cab"
+  ],
+  "exclusions": [
+    "Park entry fees",
+    "Lunch & Dinner"
+  ],
+  "importantInfo": [
+    "Carry a light jacket"
+  ],
+  "faqs": [
+    {
+      "q": "Is it good for honeymoon?",
+      "a": "Highly recommended."
+    }
+  ],
+  "quickHighlights": {
+    "duration": "3D/2N",
+    "hotel": "4 Star",
+    "meals": "CP",
+    "transport": "Private",
+    "groupType": "Private"
+  }
+}

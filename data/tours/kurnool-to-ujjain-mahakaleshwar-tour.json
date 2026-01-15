@@ -1,0 +1,60 @@
+{
+  "slug": "kurnool-to-ujjain-mahakaleshwar-tour",
+  "title": "Kurnool to Ujjain Mahakaleshwar Tour",
+  "location": "Ujjain, Madhya Pradesh",
+  "price": "₹12,500",
+  "duration": "3 Days / 2 Nights",
+  "overview": "Experience the divine energy of Mahakaleshwar Jyotirlinga with our specially curated tour from Kurnool. This journey takes you through the spiritual heart of Ujjain, offering a seamless blend of devotion and comfort.",
+  "highlights": [
+    "Darshan at Mahakaleshwar Jyotirlinga",
+    "Comfortable hotel stay",
+    "Daily breakfast & dinner",
+    "AC private vehicle",
+    "Experienced tour coordinator"
+  ],
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Arrival & Temple Visit",
+      "desc": "Arrival at Ujjain, hotel check-in. In the evening, witness the mesmerizing Bhasma Aarti or evening aarti at the Mahakaleshwar temple."
+    },
+    {
+      "day": "Day 2",
+      "title": "Ujjain Sightseeing",
+      "desc": "Full day sightseeing including Kal Bhairav Temple, Harsiddhi Mata Temple, and a peaceful evening at Ram Ghat."
+    },
+    {
+      "day": "Day 3",
+      "title": "Departure",
+      "desc": "Enjoy a hearty breakfast, complete checkout formalities, and proceed for your return journey with divine memories."
+    }
+  ],
+  "inclusions": [
+    "3-star hotel",
+    "Breakfast & Dinner",
+    "AC Transport",
+    "Guide"
+  ],
+  "exclusions": [
+    "Airfare",
+    "Lunch",
+    "Entry fees"
+  ],
+  "importantInfo": [
+    "Carry ID proof",
+    "Follow dress code"
+  ],
+  "faqs": [
+    {
+      "q": "Is darshan guaranteed?",
+      "a": "Depends on temple rules."
+    }
+  ],
+  "quickHighlights": {
+    "duration": "3D/2N",
+    "hotel": "3 Star",
+    "meals": "MAP",
+    "transport": "Private",
+    "groupType": "Private"
+  }
+}

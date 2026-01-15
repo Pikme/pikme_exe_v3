@@ -1,0 +1,55 @@
+{
+  "slug": "delhi-to-rishikesh-adventure",
+  "title": "Delhi to Rishikesh Adventure Escape",
+  "location": "Rishikesh, Uttarakhand",
+  "price": "₹8,999",
+  "duration": "3 Days / 2 Nights",
+  "overview": "Get your adrenaline pumping with river rafting and find peace with Ganga Aarti in the Yoga Capital of the World.",
+  "highlights": [
+    "White Water Rafting",
+    "Ganga Aarti at Triveni Ghat",
+    "Camping Experience"
+  ],
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Arrival & Camping",
+      "desc": "Drive from Delhi, check-in at riverside camp, evening bonfire."
+    },
+    {
+      "day": "Day 2",
+      "title": "Rafting & Sightseeing",
+      "desc": "16km river rafting, visit Laxman Jhula and Ram Jhula."
+    },
+    {
+      "day": "Day 3",
+      "title": "Yoga & Departure",
+      "desc": "Morning yoga session, breakfast, and drive back to Delhi."
+    }
+  ],
+  "inclusions": [
+    "Luxury Tents",
+    "All Meals",
+    "Rafting Gear"
+  ],
+  "exclusions": [
+    "Personal expenses",
+    "Insurance"
+  ],
+  "importantInfo": [
+    "Carry comfortable sports wear"
+  ],
+  "faqs": [
+    {
+      "q": "Is rafting safe?",
+      "a": "Yes, with certified instructors."
+    }
+  ],
+  "quickHighlights": {
+    "duration": "3D/2N",
+    "hotel": "Camps",
+    "meals": "All",
+    "transport": "Shared",
+    "groupType": "Group"
+  }
+}
