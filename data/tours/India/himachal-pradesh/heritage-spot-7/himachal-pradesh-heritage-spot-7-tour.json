@@ -1,0 +1,62 @@
+{
+  "slug": "himachal-pradesh-heritage-spot-7-tour",
+  "title": "Himachal Pradesh Heritage Tour 7",
+  "location": "Himachal Pradesh, India",
+  "price": "₹24000",
+  "duration": "4 Days / 4 Nights",
+  "overview": "Explore the beautiful heritage attractions of Himachal Pradesh. This tour is designed to give you an immersive experience of Heritage Spot 7.",
+  "highlights": [
+    "Visit Heritage Spot 7",
+    "Experience local Himachal Pradesh culture",
+    "Guided Heritage activities",
+    "Comfortable accommodation",
+    "Private transportation"
+  ],
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Arrival",
+      "desc": "Arrive in Himachal Pradesh and transfer to your hotel."
+    },
+    {
+      "day": "Day 2",
+      "title": "Sightseeing",
+      "desc": "Full day exploring Heritage Spot 7 and nearby areas."
+    },
+    {
+      "day": "Day 3",
+      "title": "Departure",
+      "desc": "Breakfast and transfer to the airport/station."
+    }
+  ],
+  "inclusions": [
+    "Hotel stay",
+    "Breakfast",
+    "AC Transport"
+  ],
+  "exclusions": [
+    "Airfare",
+    "Lunch",
+    "Personal expenses"
+  ],
+  "importantInfo": [
+    "Carry ID proof",
+    "Follow local guidelines"
+  ],
+  "faqs": [
+    {
+      "q": "Is it safe?",
+      "a": "Yes, we provide 24/7 support."
+    }
+  ],
+  "quickHighlights": {
+    "duration": "3D/2N",
+    "hotel": "3 Star",
+    "meals": "CP",
+    "transport": "Private",
+    "groupType": "Private"
+  },
+  "country": "India",
+  "state": "Himachal Pradesh",
+  "attraction": "Heritage Spot 7"
+}

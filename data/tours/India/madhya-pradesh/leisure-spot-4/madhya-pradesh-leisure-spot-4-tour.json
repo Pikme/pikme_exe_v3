@@ -1,0 +1,62 @@
+{
+  "slug": "madhya-pradesh-leisure-spot-4-tour",
+  "title": "Madhya Pradesh Leisure Tour 4",
+  "location": "Madhya Pradesh, India",
+  "price": "₹11000",
+  "duration": "3 Days / 5 Nights",
+  "overview": "Explore the beautiful leisure attractions of Madhya Pradesh. This tour is designed to give you an immersive experience of Leisure Spot 4.",
+  "highlights": [
+    "Visit Leisure Spot 4",
+    "Experience local Madhya Pradesh culture",
+    "Guided Leisure activities",
+    "Comfortable accommodation",
+    "Private transportation"
+  ],
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Arrival",
+      "desc": "Arrive in Madhya Pradesh and transfer to your hotel."
+    },
+    {
+      "day": "Day 2",
+      "title": "Sightseeing",
+      "desc": "Full day exploring Leisure Spot 4 and nearby areas."
+    },
+    {
+      "day": "Day 3",
+      "title": "Departure",
+      "desc": "Breakfast and transfer to the airport/station."
+    }
+  ],
+  "inclusions": [
+    "Hotel stay",
+    "Breakfast",
+    "AC Transport"
+  ],
+  "exclusions": [
+    "Airfare",
+    "Lunch",
+    "Personal expenses"
+  ],
+  "importantInfo": [
+    "Carry ID proof",
+    "Follow local guidelines"
+  ],
+  "faqs": [
+    {
+      "q": "Is it safe?",
+      "a": "Yes, we provide 24/7 support."
+    }
+  ],
+  "quickHighlights": {
+    "duration": "3D/2N",
+    "hotel": "3 Star",
+    "meals": "CP",
+    "transport": "Private",
+    "groupType": "Private"
+  },
+  "country": "India",
+  "state": "Madhya Pradesh",
+  "attraction": "Leisure Spot 4"
+}

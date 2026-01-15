@@ -1,0 +1,62 @@
+{
+  "slug": "haryana-leisure-spot-4-tour",
+  "title": "Haryana Leisure Tour 4",
+  "location": "Haryana, India",
+  "price": "₹15000",
+  "duration": "6 Days / 4 Nights",
+  "overview": "Explore the beautiful leisure attractions of Haryana. This tour is designed to give you an immersive experience of Leisure Spot 4.",
+  "highlights": [
+    "Visit Leisure Spot 4",
+    "Experience local Haryana culture",
+    "Guided Leisure activities",
+    "Comfortable accommodation",
+    "Private transportation"
+  ],
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Arrival",
+      "desc": "Arrive in Haryana and transfer to your hotel."
+    },
+    {
+      "day": "Day 2",
+      "title": "Sightseeing",
+      "desc": "Full day exploring Leisure Spot 4 and nearby areas."
+    },
+    {
+      "day": "Day 3",
+      "title": "Departure",
+      "desc": "Breakfast and transfer to the airport/station."
+    }
+  ],
+  "inclusions": [
+    "Hotel stay",
+    "Breakfast",
+    "AC Transport"
+  ],
+  "exclusions": [
+    "Airfare",
+    "Lunch",
+    "Personal expenses"
+  ],
+  "importantInfo": [
+    "Carry ID proof",
+    "Follow local guidelines"
+  ],
+  "faqs": [
+    {
+      "q": "Is it safe?",
+      "a": "Yes, we provide 24/7 support."
+    }
+  ],
+  "quickHighlights": {
+    "duration": "3D/2N",
+    "hotel": "3 Star",
+    "meals": "CP",
+    "transport": "Private",
+    "groupType": "Private"
+  },
+  "country": "India",
+  "state": "Haryana",
+  "attraction": "Leisure Spot 4"
+}
